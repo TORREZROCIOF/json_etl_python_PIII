@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Jesus",
+        "apellido": "Gonzalez",
+        "DNI": "26701556",
+        "elementos_vestir": [
+            {
+                "prenda": "chaleco",
+                "cantidad": 4
+            },
+            {
+                "prenda": "zapato",
+                "cantidad": 12
+            }
+        ]
+    },
+    {
+        "nombre": "Jesus",
+        "apellido": "Gonzalez",
+        "DNI": "26701556",
+        "elementos_vestir": [
+            {
+                "prenda": "chaleco",
+                "cantidad": 4
+            },
+            {
+                "prenda": "zapato",
+                "cantidad": 12
+            }
+        ]
+    }
+]
